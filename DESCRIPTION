@@ -1,0 +1,9 @@
+Package: ggsports
+Type: Package
+Title: ggplot2 geoms, themes and scales for sports data visualisation.
+Version: 0.1
+Date: 2015-08-02
+Author: Jo-fai Chow
+Maintainer: Jo-fai Chow <jofai.chow@gmail.com>
+Description: Making it easier for sports data visualisation.
+License: MIT
